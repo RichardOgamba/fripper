@@ -21,6 +21,6 @@ Fripper is a web chat app where by you can share information among a group of pe
 Incase of a problem you can visit our github and place your current issue(https://github.com/RichardOgamba/fripper.git).
 
 ### License
-GNU License
+MIT License
 
 Copyright (c) {2018} **{Richard Ogamba and James Kimari}**
